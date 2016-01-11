@@ -2,8 +2,8 @@ Esquenon Mauro Andres
 ==
 Contacto
 --
-> - #### m.a.esquenon@hotmail.com
-> - #### +54 362 4 621655
+> -  m.a.esquenon@hotmail.com
+> -  +54 362 4 621655
 
 Formacion academica
 --
