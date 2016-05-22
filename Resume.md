@@ -4,6 +4,7 @@ Contact
 --
 > -  m.a.esquenon@hotmail.com
 > -  +54 362 4 621655
+> - https://www.linkedin.com/in/esquenonmauroandres
 
 Education
 --
@@ -110,10 +111,12 @@ Volunteer Experience
 > - **Staff**
 >	 * Festival de la Resistencia 
 >	 * Zday Corrientes 2012, Chaco 2013
+>  * Flisol Resistencia 2016
 
 > - **Speaker**
 >	 * Zday Chaco 2013
 >	 * Festival Misionero de Software Libre 2013
+>  * Flisol Resistencia 2016
 
 Languagse
 --
