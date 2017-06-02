@@ -5,7 +5,7 @@
 > * [m.a.esquenon@hotmail.com](mailto:m.a.esquenon@hotmail.com)
 > * [+54 9 362 4 621655](tel:+54 9 362 4 621655)
 
-## Formacion academica
+## Formacion academica {#formacion-academica}
 
 > * **Universidad Nacional de Entre Rios**
 >
