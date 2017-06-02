@@ -103,7 +103,7 @@
 >   * Taller anual.
 >   * Año 2011
 
-## Experiencia Profesional
+## Experiencia Profesional{#formacion-profesional}
 
 > * **Asistente colaborativo en Gestion de Proyectos**
 >
@@ -125,7 +125,9 @@
 >   * Reservado.
 >   * Año 2012
 
-## Actividades voluntarias
+## Actividades voluntarias {#actividades-voluntarias}
+
+
 
 > * **Gestor de comunidades.**
 >
@@ -146,7 +148,7 @@
 >   * Cultura Libre - Festival Misionero de Software Libre 2013
 >   * Organizaciones Exponenciales - Festival de equinoxio Velatropa 2017
 
-## Idiomas
+## Idiomas {#idiomas}
 
 > * **Ingles intermedio**
 > * **Español nativo**
