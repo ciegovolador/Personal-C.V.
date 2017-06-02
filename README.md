@@ -1,15 +1,15 @@
 # Esquenon Mauro Andres
 
-## Contacto
+## Contacto {#contacto}
 
-> * m.a.esquenon@hotmail.com
-> * +54 362 4 621655
+> * [m.a.esquenon@hotmail.com](mailto:m.a.esquenon@hotmail.com)
+> * [+54 9 362 4 621655](tel:+54 9 362 4 621655)
 
-## Formacion academica
+## Formacion academica {#formacion-academica}
 
 > * **Universidad Nacional de Entre Rios**
 >
->   * Bioingenieria y Bioinformatica.
+>   * Bioingenieria y Bioinformatica - En curso
 >   * Carrera.
 >   * Año 2009-2010.
 >
@@ -45,10 +45,23 @@
 >
 > * **Coursera**
 >
->   * Model Thinking
->   * Computing for Data Analysis
+>   * [Model Thinking](https://www.coursera.org/course/modelthinking)
+>
+>   * [Computing for Data Analysis](https://www.coursera.org/course/compdata)
+>
+>   * [People Analytics](https://www.coursera.org/learn/wharton-people-analytics)
+>
+>   * [Viral Marketing and How to Craft Contagious Content](https://www.coursera.org/learn/wharton-contagious-viral-marketing)
+>
+>   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+>
+>   * [Project Management: The Basics for Success](https://www.coursera.org/learn/project-management-basics)
+>
+>   * [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/learn/work-smarter-not-harder)
+>
 >   * Curso Online
->   * Año 2013 -2014
+>
+>   * Año 2013 -2016
 >
 > * **Fundacion Intecnor**
 >
@@ -90,7 +103,7 @@
 >   * Taller anual.
 >   * Año 2011
 
-## Experiencia Profesional
+## Experiencia Profesional{#formacion-profesional}
 
 > * **Asistente colaborativo en Gestion de Proyectos**
 >
@@ -102,7 +115,7 @@
 >   * Casa de Pre-egreso.
 >   * Año 2014
 >
-> * **Auditor de Marca - campaña Shell**
+> * **Auditor de Marca - Campaña Shell**
 >
 >   * Bare International.
 >   * Año 2013
@@ -112,7 +125,9 @@
 >   * Reservado.
 >   * Año 2012
 
-## Actividades voluntarias
+## Actividades voluntarias {#actividades-voluntarias}
+
+
 
 > * **Gestor de comunidades.**
 >
@@ -129,10 +144,11 @@
 >
 > * **Orador**
 >
->   * Zday Chaco 2013
->   * Festival Misionero de Software Libre 2013
+>   * Cultura Libre  Ce.Cu.Al. Zday Chaco 2013
+>   * Cultura Libre - Festival Misionero de Software Libre 2013
+>   * Organizaciones Exponenciales - Festival de equinoxio Velatropa 2017
 
-## Idiomas
+## Idiomas {#idiomas}
 
 > * **Ingles intermedio**
 > * **Español nativo**
