@@ -2,8 +2,8 @@
 
 ## Contacto {#contacto}
 
-> * m.a.esquenon@hotmail.com
-> * +54 9 362 4 621655
+> * [m.a.esquenon@hotmail.com](/m.a.esquenon@hotmail.com "Escribime!")
+> * [+54 9 362 4 621655](/+54 9 362 4 621655 "Llamame!")
 
 ## Formacion academica
 
