@@ -2,7 +2,7 @@
 
 ## Contacto {#contacto}
 
-> * [m.a.esquenon@hotmail.com](/m.a.esquenon@hotmail.com "Escribime!")
+> * [m.a.esquenon@hotmail.com](mailito:m.a.esquenon@hotmail.com)
 > * [+54 9 362 4 621655](/+54 9 362 4 621655 "Llamame!")
 
 ## Formacion academica
