@@ -1,6 +1,6 @@
 # Esquenon Mauro Andres
 
-## Contacto
+## Contacto {#contacto}
 
 > * m.a.esquenon@hotmail.com
 > * +54 9 362 4 621655
@@ -60,6 +60,7 @@
 >   * [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/learn/work-smarter-not-harder)
 >
 >   * Curso Online
+>
 >   * Año 2013 -2016
 >
 > * **Fundacion Intecnor**
