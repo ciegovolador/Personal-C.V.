@@ -35,15 +35,20 @@ Education
 >	 * Year 2014
 
 > - **Instel Instituto de Seguridad Informatica**
->	 * Telefonia IP
+>    * Telefonia IP
 >	 * Course.
 >	 * Year 2013
 
 > - **Coursera**
->	 * Model Thinking
->	 * Computing for Data Analysis
->	 * Online Course.
->	 * Year 2013 -2014
+>	 * [Model Thinking](https://www.coursera.org/course/modelthinking)
+>   * [Computing for Data Analysis](https://www.coursera.org/course/compdata)
+>   * [People Analytics](https://www.coursera.org/learn/wharton-people-analytics)
+>   * [Viral Marketing and How to Craft Contagious Content](https://www.coursera.org/learn/wharton-contagious-viral-marketing)
+>   * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+>   * [Project Management: The Basics for Success](https://www.coursera.org/learn/project-management-basics)
+>   * [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/learn/work-smarter-not-harder)
+>   * Online Course.
+>   * Año 2013 -2016
 
 > - **Fundacion Intecnor**
 >	 * Technology forecasting and Business Intelligence.
@@ -111,12 +116,13 @@ Volunteer Experience
 > - **Staff**
 >	 * Festival de la Resistencia 
 >	 * Zday Corrientes 2012, Chaco 2013
->  * Flisol Resistencia 2016
+>    * Flisol Resistencia 2016
+
 
 > - **Speaker**
->	 * Zday Chaco 2013
->	 * Festival Misionero de Software Libre 2013
->  * Flisol Resistencia 2016
+>   * Cultura Libre Ce.Cu.Al. Zday Chaco 2013
+>   * Cultura Libre - Festival Misionero de Software Libre 2013
+>   * Organizaciones Exponenciales - Festival de equinoxio Velatropa 2017
 
 Languagse
 --
