@@ -124,7 +124,7 @@ Volunteer Experience
 >   * Cultura Libre - Festival Misionero de Software Libre 2013
 >   * Organizaciones Exponenciales - Festival de equinoxio Velatropa 2017
 
-Languagse
+Language
 --
 > - **Intermediate English**
 > - **Native Spanish**
